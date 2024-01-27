@@ -1,0 +1,16 @@
+{
+  "name": "jfroux83/workopia",
+  "description": "Job listing application",
+  "authors": [
+    {
+      "name": "Jacques Roux",
+      "email": "jacquesf.roux@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "Framework/",
+      "App\\": "App/"
+    }
+  }
+}
